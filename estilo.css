@@ -5,6 +5,8 @@ body {
 
 #principal {
 	width: 900px;
+	margin: auto;
+	position: relative;
 }
 
 #menu {
